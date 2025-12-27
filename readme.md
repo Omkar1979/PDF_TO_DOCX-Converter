@@ -41,13 +41,15 @@ The goal was to create an exact replica of a provided PDF, ensuring that spacing
 
 
 
-##🛠️ Local Setup
+
 ```
+##🛠️ Local Setup
 Clone the repo:
 
 Bash
 
 git clone [https://github.com/Omkar1979/PDF_TO_DOCX-Converter.git](https://github.com/Omkar1979/PDF_TO_DOCX-Converter.git)
+
 cd PDF_TO_DOCX-Converter
 Install requirements:
 
