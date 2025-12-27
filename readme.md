@@ -39,7 +39,10 @@ The goal was to create an exact replica of a provided PDF, ensuring that spacing
 │   └── index.html      # Frontend HTML for file uploading
 └── README.md           # Project documentation
 
-🛠️ Local Setup
+
+
+##🛠️ Local Setup
+```text
 Clone the repo:
 
 Bash
