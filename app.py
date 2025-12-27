@@ -251,7 +251,7 @@ def convert():
         return send_file(
             output_stream,
             as_attachment=True,
-            download_name="Mediation_Form_Converted.docx",
+            download_name="Output.docx",
             mimetype="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         )
     except Exception as e:
