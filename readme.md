@@ -42,7 +42,7 @@ The goal was to create an exact replica of a provided PDF, ensuring that spacing
 
 
 ##🛠️ Local Setup
-```text
+```
 Clone the repo:
 
 Bash
