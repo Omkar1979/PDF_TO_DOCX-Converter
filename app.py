@@ -9,7 +9,7 @@ from pypdf import PdfReader
 
 app = Flask(__name__)
 
-# ------------------- HELPER FUNCTIONS -------------------
+#helper functions 
 
 def set_border(cell):
     tc = cell._tc
